@@ -1,0 +1,20 @@
+{
+  "name": "crud-usuarios",
+  "version": "1.0.0",
+  "description": "CRUD de Usuarios con Node.js y Postgres de Render",
+  "homepage": "https://github.com/AlfredoTec/DNS-CRUD-Usuarios#readme",
+  "bugs": {
+    "url": "https://github.com/AlfredoTec/DNS-CRUD-Usuarios/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoTec/DNS-CRUD-Usuarios.git"
+  },
+  "license": "ISC",
+  "author": "Alfredo Navarro (AlfredoDev)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
